@@ -48,7 +48,6 @@ telecom-x/
 ├── 📄 README.md                # Documentação e descrição do projeto
 ├── 📄 TelecomX.ipynb           # Notebook com ETL, EDA e visualizações
 └── 📄 requirements.txt         # Dependências necessárias
-
 ```
 
 ## 🛠️ Abrir e rodar o projeto
