@@ -45,8 +45,8 @@ O desafio envolve a coleta, tratamento e análise de dados utilizando Python e s
 telecom-x/
 ├── 📁 data/                    # Dados utilizados no projeto
 │   └── 📄 TelecomX_Data.json   # Arquivo de dados brutos (JSON)
-├── 📄 TelecomX.ipynb           # Notebook com ETL, EDA e visualizações
 ├── 📄 README.md                # Documentação e descrição do projeto
+├── 📄 TelecomX.ipynb           # Notebook com ETL, EDA e visualizações
 └── 📄 requirements.txt         # Dependências necessárias
 
 ```
